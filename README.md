@@ -1,6 +1,6 @@
 # Portable Multi-Function Device
 ## Overview 
-A portable STM32 device that can display the current time &amp; weather, act as a Pomodoro timer with alarm &amp; and connect to the internet for more functions
+A portable ESP32 device that can display the current time &amp; weather, act as a Pomodoro timer with alarm &amp; and connect to the internet for more functions
 
 ## Requirement Analysis
 To satisfy the expected functions on the portable device, the mind map below displayed the essential processes and components with all required Hardware & Software ports. 
